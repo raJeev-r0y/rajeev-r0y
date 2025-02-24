@@ -17,9 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajeev_r0y" target="blank"><img src="https://img.shields.io/twitter/follow/rajeev_r0y?logo=twitter&style=for-the-badge" alt="rajeev_r0y" /></a> </p>
 
-- 🔭 I’m currently working on [Ai-Automated-Web-Harvester](https://github.com/raJeev-r0y/Ai-Automated-Web-Harvester)
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and it's Libraries**
 
 - 👨‍💻 All of my projects are available at [https://rajeev-r0y.github.io/My_Portfolio/](https://rajeev-r0y.github.io/My_Portfolio/)
 

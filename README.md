@@ -1,4 +1,4 @@
-![logo](https://github.com/raJeev-r0y/rajeev-r0y/blob/main/github%20banner%201.PNG)
+![logo](https://github.com/raJeev-r0y/rajeev-r0y/blob/main/gitHub%202.PNG)
 <h1 align="center">Hi 👋, I'm SUGATA ROY</h1>
 <h3 align="center">A Passionate upcomming Software Engineer from India</h3>
 
